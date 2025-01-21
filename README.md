@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ishwor Karki</h1>
 <h3 align="center">A passionate Full Stack Developer from Australia.</h3>
 
-<p style="text-align:center;">👨‍💻 All of my projects are available at <a href="https://my-portfolio-phi-rust-65.vercel.app/">My Portfolio</a> - 📫 How to reach me: <strong>ishworkarkij11@gmail.com</strong></p>
+<h4 align="center">👨‍💻 All of my projects are available at <a href="https://my-portfolio-phi-rust-65.vercel.app/">My Portfolio</a> - 📫 How to reach me: <a href="mailto:ishworkarkij11@gmail.com"><strong>ishworkarkij11@gmail.com</strong></a></h4>
+
 
 
 ---
