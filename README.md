@@ -28,21 +28,13 @@ I’m a **Full-Stack Developer** with expertise in **React.js**, **Node.js**, an
 
 ---
 
-### 📌 Featured Project  
-#### **Chicken George – Local Food Shop**  
-[🌐 Live Demo](https://github.com/ishworj/Chicken-George) | [💾 GitHub Repository](https://github.com/ishworj/Chicken-George)  
-- Designed and developed a scalable, multi-page food ordering system with secure payment integration, user authentication, and real-time order tracking.  
-- Developed a responsive and dynamic front-end using **React.js**, **Bootstrap**, and **CSS3**.  
-- Built a robust backend with **Node.js**, **Express.js**, and **MongoDB**.  
-- Optimized application performance by reducing load time, ensuring reliable user experience.
-
----
-
----
-
 ### 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ishworj&show_icons=true&locale=en&layout=compact" alt="ishworj" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ishworj&theme=github-dark-blue" />
 </p>
 
 ---
